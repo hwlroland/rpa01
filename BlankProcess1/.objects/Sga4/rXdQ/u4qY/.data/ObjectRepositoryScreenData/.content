@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="c6HljrLI9UajLc9bBUNxDg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" BrowserType="Edge" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABGSURBVDhPY7jCwPefEjxqANQAEECXgImDADY5GMbrAkKaQRjFBcgAnQ8DyOJYDSCFBmGiDYABZHEQxhsGxOBRAyg2gO8/AB3xIEmEOugxAAAAAElFTkSuQmCC" Selector="&lt;html app='msedge.exe' title='118.31.23.11:8312/webui/servlet/login' /&gt;" Title="118.31.23.11:8312/webui/servlet/login" Url="http://118.31.23.11:8312/webui/servlet/login">
+      <imageRef attrName="InformativeScreenshot" originalValue="c12c1193c6941bbfa47d288f5fef78a2.jpg" xmlns="">0643drwfTcUO_v9nSJDjVzg</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

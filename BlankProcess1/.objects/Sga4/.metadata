@@ -1,0 +1,11 @@
+﻿{
+  "Name": "Edge: 118.31.23.11:8312/webui/servlet/login app",
+  "Type": "App",
+  "Id": "Sga4cU_ktEiFVQvjHfboUA",
+  "Reference": "MDqXzkhV4Eq1udG-jWe5iw/Sga4cU_ktEiFVQvjHfboUA",
+  "Created": "2023-12-10T09:27:07.1420781Z",
+  "Updated": "2023-12-10T09:27:07.1420781Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
